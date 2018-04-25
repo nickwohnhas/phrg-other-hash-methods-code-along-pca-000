@@ -4,3 +4,4 @@ tags:
 languages:
   - ruby
 resources: 1
+parent_template: git@github.com:learn-co-curriculum/other-hash-methods-code-along.git
